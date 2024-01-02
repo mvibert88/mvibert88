@@ -1,4 +1,3 @@
-### Mac Vibert
 
 ##### Hi there! I am a computer science student at UBCO set to graduate this year. 
 
